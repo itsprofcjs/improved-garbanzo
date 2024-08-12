@@ -1,3 +1,10 @@
+# [1.0.0-beta.2](https://github.com/itsprofcjs/improved-garbanzo/compare/v1.0.0-beta.1...v1.0.0-beta.2) (2024-08-12)
+
+
+### Features
+
+* basic io greet ([801d7ce](https://github.com/itsprofcjs/improved-garbanzo/commit/801d7ceba2d690e92bf0fa09bc27b8f2b0a5819a))
+
 # 1.0.0-beta.1 (2024-08-06)
 
 
